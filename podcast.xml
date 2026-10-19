@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Testament amoureux de Serge Rezvani — France Culture (2023)</title>
+    <link>https://www.radiofrance.fr/franceculture/podcasts/serie-le-testament-amoureux-de-serge-rezvani</link>
+    <description>Index personnel non officiel des cinq épisodes de France Culture, diffusés du 18 au 22 septembre 2023. Les fichiers audio sont servis directement par Radio France. Ce flux n'est ni édité ni approuvé par Radio France.</description>
+    <language>fr-FR</language>
+    <itunes:author>France Culture / Radio France</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <item>
+      <title>1/5 — L'Enfance</title>
+      <guid isPermaLink="false">rezvani-2023-0083</guid>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
+      <description>Premier épisode : L'Enfance.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>00:30:38</itunes:duration>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/11495-18.09.2023-ITEMA_23478351-2023C3480E0083-25.m4a" length="44459734" type="audio/mp4" />
+    </item>
+    <item>
+      <title>2/5 — La vie d'artiste</title>
+      <guid isPermaLink="false">rezvani-2023-0084</guid>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+      <description>Deuxième épisode : La vie d'artiste.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>00:29:20</itunes:duration>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/11495-18.09.2023-ITEMA_23478351-2023C3480E0084-25.m4a" length="42577207" type="audio/mp4" />
+    </item>
+    <item>
+      <title>3/5 — La rencontre</title>
+      <guid isPermaLink="false">rezvani-2023-0085</guid>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+      <description>Troisième épisode : La rencontre.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>00:29:23</itunes:duration>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/11495-18.09.2023-ITEMA_23478351-2023C3480E0085-25.m4a" length="42657195" type="audio/mp4" />
+    </item>
+    <item>
+      <title>4/5 — L'écriture</title>
+      <guid isPermaLink="false">rezvani-2023-0086</guid>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+      <description>Quatrième épisode : L'écriture.</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>00:30:16</itunes:duration>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/11495-18.09.2023-ITEMA_23478351-2023C3480E0086-25.m4a" length="43933898" type="audio/mp4" />
+    </item>
+    <item>
+      <title>5/5 — La Béate</title>
+      <guid isPermaLink="false">rezvani-2023-0087</guid>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+      <description>Cinquième épisode : La Béate.</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>00:30:09</itunes:duration>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/11495-18.09.2023-ITEMA_23478351-2023C3480E0087-25.m4a" length="43766727" type="audio/mp4" />
+    </item>
+  </channel>
+</rss>
